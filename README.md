@@ -100,7 +100,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![JASIL-ser](https://github.com/ABUOP1.png?size=100)](https://github.com/ABUOP1) | [![ABUOP](https://github.com/ABUOP1.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
+  [![JASIL](https://github.com/ABUOP1.png?size=100)](https://github.com/ABUOP1) | [![ABUOP1](https://github.com/ABUOP1.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
 ----|----|----
 [Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [luciferking1](https://github.com/luciferking1) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
